@@ -1,2 +1,2 @@
 # Coursera-Repo
-Create Repe exercise from Coursera
+Create Repo exercise from Coursera
